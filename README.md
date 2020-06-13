@@ -1,2 +1,2 @@
 # nes-emulator
-implementing an nes emulator just for fun
+implementing a nes emulator just for fun
